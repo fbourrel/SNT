@@ -1,2 +1,2 @@
-# SNT
+# Informatique EPLEFPA
 Sciences Numériques et Technologie
