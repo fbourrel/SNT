@@ -2,7 +2,11 @@
 
 [Progression + Séances + Fichiers](https://fbourrel.github.io/SNT/test.html)
 
-
+Test de code
+`Code` import random
+a=1
+b=1
+print a+b
 
 
 
